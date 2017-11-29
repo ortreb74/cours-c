@@ -1,0 +1,14 @@
+Exercice 1 
+
+1)Le module charlist est utilisé avec Charlist goodGuesses et charlist attempts.
+Ici le goodGuesses sert a savoir si la lettres donnée par l'utilisateur est bonne et la attempts permet de savoir si la lettre a déjà été demandé.
+
+3) Il ne se passe rien car dans la fonction main, il est écrit return 0 ce qui fait que cela ne peut pas marcher car 0 signifie que c'est faux
+
+4)La garde d'inclusion sert � interdire au compilateur d'inclure plusieurs fois le m�me code.
+L'algorithme consiste a d�finir une constante et a n'inclure le code que si elle n'est pas d�finie.
+
+Exercice 2
+
+7)  
+
